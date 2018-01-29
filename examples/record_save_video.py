@@ -1,3 +1,4 @@
+# version 1.0 written by Minkyu Kim (steveminq@gmail.com) 
 from gopro import GoPro
 import requests
 import humanize
@@ -6,6 +7,7 @@ import time
 from StringIO import StringIO
 import re
 from bs4 import BeautifulSoup
+
 
 #call camera viariable
 camera = GoPro.GoPro()
