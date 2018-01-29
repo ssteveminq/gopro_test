@@ -1,6 +1,6 @@
 
 # Examples for GoPro control
-moveit instructions for using HSR
+moveit instructions for using GoPro (Black 6 is tested)
 
 ## prerequisite
 * Install Gopro wrapper from this repo.(It is originally from https://github.com/DenisCarriere/gopro )
