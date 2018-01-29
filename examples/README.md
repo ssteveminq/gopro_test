@@ -22,7 +22,7 @@ $ python check_status.py
 
 ## Record video for 10 secs
 ```
-$ python 10_sec_vid_.py
+$ python 10_sec_vid.py
 ```
 
 ## Record video and save the last video
