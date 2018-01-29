@@ -8,7 +8,7 @@ moveit instructions for using GoPro (Black 6 is tested)
 
 ## Environment
  * Your labtop (device) should be connected to GoPro via wifi network.
- * GoPro have its own wifi (it usually starts with GP****)
+ * GoPro has its own wifi (it usually starts with GP****)
  * See Your GoPro to get wifi password (you can find the password in connections) 
 
 ## example codes 
